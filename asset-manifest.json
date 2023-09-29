@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-voting-Eligibility-checker/static/css/main.8d57eda0.css",
+    "main.js": "/React-voting-Eligibility-checker/static/js/main.42773e88.js",
+    "static/media/favicon.png": "/React-voting-Eligibility-checker/static/media/favicon.845890f42459faf85832.png",
+    "index.html": "/React-voting-Eligibility-checker/index.html",
+    "main.8d57eda0.css.map": "/React-voting-Eligibility-checker/static/css/main.8d57eda0.css.map",
+    "main.42773e88.js.map": "/React-voting-Eligibility-checker/static/js/main.42773e88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d57eda0.css",
+    "static/js/main.42773e88.js"
+  ]
+}
